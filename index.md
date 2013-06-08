@@ -193,6 +193,8 @@ BLAST2GO or GeneMark
 
 **Reproducibile** presentations using [slidify](http://slidify.org)
 
-Access this presentation at https://github.com/johnstantongeddes/presentations
+View this presentation at http://johnstantongeddes.github.com/aphaenofest2013-reproducible-research
+
+and the source code at https://github.com/johnstantongeddes/aphaenofest2013-reproducible-research
 
 ---
