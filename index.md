@@ -28,9 +28,11 @@ mode        : selfcontained # {standalone, draft}
 >- *[R](http://www.rproject.org)* - for data analysis
 >- *[Latex](http://www.latex-project.org/)* - for document preparation
 >- *[knitr](http://yihui.name/knitr/)* - dynamic report generation with R
+>- *[git](http://git-scm.com/)* - for version control
+>- *[github](http://github.com)* - for collaboration and accessibility
 >- *[Rstudio](http://www.rstudio.org)* - putting all the pieces together
 >- *[pandoc](http://johnmacfarlane.net/pandoc/)* - markdown format and file conversion
->- *[github](http://github.com)* - collaboration and accessibility
+
 
 ---
 
@@ -51,6 +53,15 @@ Remote access
 ---
 
 ## Version control
+
+>1. Recover from accidental deletion or overwriting 
+>2. Historical record of changes
+>3. Collaboration
+
+---
+
+
+## git
 
 `git` version control
 
